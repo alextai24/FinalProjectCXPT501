@@ -1,1 +1,1 @@
-Cleaned dataframes for both the confusion matrix (df4) and clinical characteristics (dfnew) portion of the analysis.
+Cleaned dataframes for both the confusion matrix (df4) and clinical characteristics (dfnew) portion of the analysis. The df4 dataframe was used for Tables 4 to 6 and the dfnew datafame was used for the remaining tables and all figures. 
